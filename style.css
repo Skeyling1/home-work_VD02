@@ -4,24 +4,21 @@ body{
         font-family: Arial;
     }
 
-
 h1 {
     text-align: center;
-
     }
 
 img {
- width: 300px;
-position: relative;
-left: 220px;
-top: 20px
-
+    width: 300px;
+    position: relative;
+    left: 220px;
+    top: 20px
 }
 
 p {
-position: relative;
-left: 100px;
-top: 20px
+    position: relative;
+    left: 100px;
+    top: 20px
 }
 
 .main {
@@ -37,8 +34,9 @@ top: 20px
    background-color: DarkOrange;
    border-radius: 60px;
    font-size: 120%;
-   fo
+}
 
-
-
+.user:hover {
+   background-color: Orange;
+   border: 3px solid black;
 }
