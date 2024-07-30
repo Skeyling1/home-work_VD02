@@ -10,17 +10,35 @@ h1 {
 
     }
 
+img {
+ width: 300px;
+position: relative;
+left: 220px;
+top: 20px
+
+}
+
+p {
+position: relative;
+left: 100px;
+top: 20px
+}
 
 .main {
-display: flex;
-justify-content: space-between;
+        display: flex;
+        justify-content: space-between;
+        padding-left: 25px;
+        padding-right: 25px;
 }
 
 .user {
-
-    width: 750px;
+   width: 750px;
    height: 650px;
    background-color: DarkOrange;
    border-radius: 60px;
+   font-size: 120%;
+   fo
+
+
 
 }
