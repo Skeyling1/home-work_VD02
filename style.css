@@ -1,14 +1,24 @@
 
 body{
         background-color: SteelBlue;
+        font-family: Arial;
     }
 
+
+h1 {
+    text-align: center;
+   
+    }
+
+
 .main {
-    display: flex;
+display: flex;
+justify-content: space-between;
 }
 
 .user {
- width: 400px;
+
+    width: 750px;
    height: 650px;
    background-color: DarkOrange;
    border-radius: 60px;
