@@ -1,5 +1,16 @@
 
-.user {
+body{
+        background-color: SteelBlue;
+    }
 
+.main {
+    display: flex;
+}
+
+.user {
+ width: 400px;
+   height: 650px;
+   background-color: DarkOrange;
+   border-radius: 60px;
 
 }
